@@ -44,5 +44,5 @@ It is important to prepare your laptop, computer, or remote server in order to b
 
 - We'll use ``STAN`` probabilistic language, you can have some fun reading in advance its <a href="https://mc-stan.org/docs/2_18/stan-users-guide/">User's guide</a>
 - A nice introductory paper for the course could be <a href="https://arxiv.org/abs/2011.01808">Bayesian Workflow</a>
-- Take a look at the <a href="https://github.com/sequi76/BML/blob/main/bibliography.md">proposed bibliography</a>
+- Take a look at the <a href="https://github.com/sequi76/bml4sr/blob/main/bibliography.md">proposed bibliography</a>
 
