@@ -7,7 +7,7 @@
 <li><a href="http://www.stat.columbia.edu/~gelman/book/BDA3.pdf" target="_blank">Bayesian Data Analysis</a> (Gellman): Comprehensive book for Bayesian analyses
 <li><a href='http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf' target="_blank">Bayesian Reasoning and Machine Learning</a> (Barber)
 <li><a href='https://github.com/AllenDowney/ThinkBayes2' target="_blank">Think Bayes</a> (Downey): Nice interactive set of examples with proposed solutions to work out in Python
-
+<li><a href='https://civil.colorado.edu/~balajir/CVEN6833/bayes-resources/RM-StatRethink-Bayes.pdf' target=mcelreath>Statistical Rethinking</a> (McElreath): Nice examples from non-hard sciences, featured in STAN
 
 </ul>
 
