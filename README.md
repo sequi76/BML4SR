@@ -9,7 +9,7 @@ February 3rd - February 7th 2025, hours TBA, @ <a href="https://icasu.illinois.e
 
 ## Questions, comments, videos, blogs
 
-Sign in to the Slack channel of the course and pout all your questions and comments here!
+Sign in to the Slack channel of the course and put all your questions and comments here!
 <br>
 <br>
 <a href='https://join.slack.com/t/bayesianmachi-o3n8107/shared_invite/zt-2y2vch1yv-7FHfuUOdqy3nUBsNLaOOHg'>``Go to Slack channel``</a>
