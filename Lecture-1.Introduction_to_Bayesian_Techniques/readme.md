@@ -18,4 +18,5 @@
 
 ### Thinking Bayesianly
 
-4. What is the probability of Harris winning the election, given that Trump won ?
+4. Think of a system that could be modelled as being sampled from a PDF.  Draw the Graphical Model of such a system.
+5. What is the probability of Harris winning the election, given that Trump won ?
