@@ -12,12 +12,8 @@
     2. Create the STAN model to extract the posterior for the parameters and run it!
     3. Think how could you address the problem of a mixture of $N$ Gaussians in case you don't know $N$ ?!
 
-### Going beyond a linear model
-
-3. Consider a linear model for a specific problem and explore it a little bit further by analyzing the approximations in it.  Now analyze if you can propose a new model (beyond linear) that could adapt to these features and therefore reduce the impact of the approximations.
-
 ### Thinking Bayesianly
 
-4. Think of a system that could be modeled as being sampled from a PDF.  Draw the Graphical Model of such a system.  Did you model it bottom-up?  Up-up?  Is there still room to unfold more the system and access to latent variables into which you could inject prior-info?
-5. What is the probability of Harris winning the election, given that Trump won ?
+3. Think of a system that could be modeled as being sampled from a PDF.  Draw the Graphical Model of such a system.  Did you model it bottom-up?  Up-up?  Is there still room to unfold more the system and access to latent variables into which you could inject prior-info?
+4. What is the probability of Harris winning the election, given that Trump won ?
 
