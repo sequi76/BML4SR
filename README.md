@@ -6,18 +6,12 @@ Ezequiel Alvarez (sequi@unsam.edu.ar)<br>
 
 # Important preparation-info for the course:
 
-## Questions, comments, videos, blogs
-
-Sign in to the Slack channel of the course and put all your questions and comments here!
-<br>
-<br>
-<a href='https://join.slack.com/t/bayesianmachi-o3n8107/shared_invite/zt-2y2vch1yv-7FHfuUOdqy3nUBsNLaOOHg'>``Go to Slack channel``</a>
 
 ## Software
 
 It is important to prepare your laptop, computer, or remote server in order to be able to participate in the hands-on part of the course. Here a few comments about this:
 
-- It is better if you have a Unix system on your computer (Linux, MacOS).  Windows is OK as long as you can run Python in it, and solve eventual problems with it.
+- It is better if you have a Unix system on your computer (Linux, MacOS).  Windows is OK as long as you can run Python in it, and solve eventual problems with it.  The final workaround is to use <a href='https://colab.research.google.com/' target='_blank'>Google Collab</a>, just that it may be a little bit slow. 
 - Install the following packages, if possible in the indicated versions when shown:
   - pystan:                    3.10.0
   - arviz:                     0.19.0
@@ -26,6 +20,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   
 - The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to emulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
 - Test that the notebook ``Hello_World_STAN.ipynb`` (see above!) works correctly in your computer.... and we are all set with software!
+
 ## Hardware
 
 - Any normal laptop is OK.  In the 5th lecture your laptop may feel better if you have a server where to run the Python notebooks, but don't worry if you don't have it, we adapt the notebooks.
