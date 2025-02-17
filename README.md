@@ -2,10 +2,6 @@
 Learning to propose, infer and test probabilistic models that describe systems to extract their relevant info
 
 Ezequiel Alvarez (sequi@unsam.edu.ar)<br>
-February 3rd - February 7th 2025<br>
-2PM - 3PM Theory <br>
-3PM - 4.30PM Hands-on practice <br>
-ICASU Seminar room @ <a href="https://icasu.illinois.edu/">ICASU, Illinois University</a><br>
 
 
 # Important preparation-info for the course:
