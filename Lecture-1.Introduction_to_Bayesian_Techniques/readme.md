@@ -16,5 +16,5 @@
 ### Thinking Bayesianly
 
 3. Think of a system that could be modeled as being sampled from a PDF.  Draw the Graphical Model of such a system.  Did you model it bottom-up?  Up-up?  Is there still room to unfold more the system and access to latent variables into which you could inject prior-info?
-4. What is the probability of Harris winning the election, given that Trump won ?
+4. What is the probability of Massa winning the election, given that Milei won ?
 
