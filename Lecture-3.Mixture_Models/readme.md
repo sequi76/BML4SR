@@ -32,7 +32,8 @@ We'll choose the true values for $\mu_i$, $\sigma_i$ such that it is not self-ev
    - Count how many unknowns and 'equations' there are and discuss what would have happened if there would have not been conditionally-independence.  Discuss possible work-arounds to potential problems.
 
 3. Think of everyday situations whose data may be thought as a mixture model.  There are much more of these of what you can imagine!  Ages in the train or bus, numbers of cars per unit time at highway, etc etc.  In each one of these situations, the parameters, or latent variables are telling us something about the system.  Discuss about it!
-4. Think about mixture models at your work!  In your data!  Now think of the Graphical Model to describe it.  Can you write the STAN code for it...?  If yes... then you're done!
+4. Hands-on @ classroom: The file grades.csv has the grades of the freshman students for each year.  Grades are between 0 and 1, as it should be.  Let's consider that there are 2 cluster of students that may be grouped by their grades.  Can you find these clusters for 2018 ?  And can you study how these clusters evolve along the years ? (tip: the  np.random.beta(a,b) distribution samples numbers between 0 and 1, and the beta(a,b) distribution in STAN is its corresponding distribution)
+5. Think about mixture models at your work!  In your data!  Now think of the Graphical Model to describe it.  Can you write the STAN code for it...?  If yes... then you're done!
 
 
 
